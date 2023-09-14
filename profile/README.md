@@ -1,4 +1,3 @@
-# Byte Perks
 <p align="center">
 <img src="https://cdn.bimash.com.np/discord_bg/byteperkslogoi.png" height="250">
 </p>
