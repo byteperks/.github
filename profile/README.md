@@ -1,6 +1,6 @@
 # Byte Perks
 <p align="center">
-<img src="https://cdn.bimash.com.np/discord_bg/byteperkslogo.png" height="250">
+<img src="https://cdn.bimash.com.np/discord_bg/byteperkslogoi.png" height="250">
 </p>
 
 ## Introduction
