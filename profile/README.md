@@ -31,7 +31,7 @@ Here are some of the projects we have worked on:
 - **Discord Bot for Gaming Community**
 
 ## Contact Us
-If you have any questions or would like to discuss a project, please feel free to [contact us](https://www.Byte Perks.com/contact-us). We would love to hear from you!
+If you have any questions or would like to discuss a project, please feel free to [contact us](https://www.byteperks.com). We would love to hear from you!
 
 ## Connect with Us
 - [LinkedIn](https://www.linkedin.com/company/byteperks)
