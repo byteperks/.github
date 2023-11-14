@@ -30,6 +30,9 @@ Here are some of the projects we have worked on:
 - **Speech Recognition for Voice Commands**
 - **Natural Language Processing for Text Classification**
 - **Discord Bot for Gaming Community**
+- **[QR Generator](https://github.com/byteperks/qr-code-generator)**
+- **[Code Snap](https://github.com/byteperks/code-screenshot)**
+- **[Youtube Bookmarks](https://github.com/byteperks/youtube-bookmark)**
 
 ## Contact Us
 If you have any questions or would like to discuss a project, please feel free to [contact us](https://www.byteperks.com). We would love to hear from you!
