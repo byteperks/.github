@@ -12,6 +12,7 @@ Our mission is to empower businesses and individuals with cutting-edge technolog
 At Byte Perks, we specialize in the following areas:
 
 - **Discord Bots**
+- **Browswe Extension**
 - **Web Development**
 - **Mobile App Development**
 - **Cloud Services**
